@@ -1,7 +1,8 @@
-!doctype html>
+<!doctype html>
 <html>
-  <metacharset="UTF-8">
+  <html lang= "eng."
     <head>
+    <title>
       <title> My first self-coded page on Replit after taking my lectures with Professor Colleen from Michigan University</title>
     </head>
     <body>
